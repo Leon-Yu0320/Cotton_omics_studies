@@ -4,6 +4,7 @@
 **Author: Li'ang Yu, Andrew Nelson**\
 **Date: June 14th, 2022**
 
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/69836931/214942202-6e3ce9af-fea6-43e3-ae6c-6d43a4665c4d.png">
 
 
 - [**Transcriptome and gene regulatory analysis of cotton omics project**](#transcriptome-and-gene-regulatory-analysis-of-cotton-omics-project)
