@@ -7,12 +7,6 @@
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/69836931/214942202-6e3ce9af-fea6-43e3-ae6c-6d43a4665c4d.png">
 
 
-
-# **Transcriptome and gene regulatory analysis of cotton omics project**
-
-**Author: Li'ang Yu, Andrew Nelson** \
-**Date: June 14th, 2022**
-
 - [**Transcriptome and gene regulatory analysis of cotton omics project**](#transcriptome-and-gene-regulatory-analysis-of-cotton-omics-project)
   - [STEP 1 Quantification of reads counts using featureCounts](#step-1-quantification-of-reads-counts-using-featurecounts)
     - [Perform the featureCounts for coding genes at gene level](#perform-the-featurecounts-for-coding-genes-at-gene-level)
@@ -46,7 +40,7 @@
     - [Population genomics: SNP analysis of IPS flanking SNPs](#population-genomics-snp-analysis-of-ips-flanking-snps)
       - [BYU panel with deep sequencing data](#byu-panel-with-deep-sequencing-data)
       - [TAMU panel with deep sequencing data](#tamu-panel-with-deep-sequencing-data)
-      - [Using the published larger panel for ana](#using-the-published-larger-panel-for-ana)
+      - [Using the published larger panel for ana](#using-the-published-larger-panel-for-analysis)
 
 
 ## STEP 1 Quantification of reads counts using featureCounts 
